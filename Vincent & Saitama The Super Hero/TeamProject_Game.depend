@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1565763267 source:h:\c\igraphics\teamproject_game\ioffline.cpp
+	"iGraphics.h"
+	<time.h>
+	<stdio.h>
+
+1493810122 h:\c\igraphics\teamproject_game\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1565785182 source:h:\c\igraphics\teamproject_game\game.cpp
+	"iGraphics.h"
+	<time.h>
+	<stdio.h>
+
+1565908375 source:h:\c\igraphics\teamproject_game\game1.cpp
+	<iostream>
+	"iGraphics.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1565898702 source:h:\c\igraphics\teamproject_game\game2.cpp
+	"iGraphics.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1565909518 source:i:\teamproject_game\game1.cpp
+	<iostream>
+	"iGraphics.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1493810124 i:\teamproject_game\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1567709769 source:f:\teamproject_game\game1.cpp
+	<iostream>
+	"iGraphics.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1493856924 f:\teamproject_game\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1568874497 source:g:\c\igraphics\teamproject_game\game1.cpp
+	<iostream>
+	"iGraphics.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1493860524 g:\c\igraphics\teamproject_game\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1568824364 source:f:\vincent & saitama the super hero\game1.cpp
+	<iostream>
+	"iGraphics.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1493810124 f:\vincent & saitama the super hero\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
